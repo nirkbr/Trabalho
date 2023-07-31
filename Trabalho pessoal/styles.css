@@ -1,0 +1,22 @@
+h1{
+    color: rgb(8, 49, 163);
+    font-variant-caps: all-small-caps;
+}
+body{
+    text-align: center;
+}
+.Titulos{
+    color: rgba(201, 137, 18, 0.959);
+}
+figcaption{
+    color: rgba(128, 128, 128, 0.795);
+    font-style: oblique;
+}
+.Textos{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.flex-sm-fill{
+    height: 50px;
+    
+   
+}

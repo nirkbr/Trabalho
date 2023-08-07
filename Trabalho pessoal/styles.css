@@ -1,22 +1,38 @@
 h1{
-    color: rgb(8, 49, 163);
-    font-variant-caps: all-small-caps;
+    color: rgba(20, 41, 97, 0.774);
+    font-family: 'PT Serif', serif;
 }
+
+
 body{
     text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
 }
+
+
 .Titulos{
     color: rgba(201, 137, 18, 0.959);
+    font-family: 'PT Serif', serif;
+
 }
 figcaption{
     color: rgba(128, 128, 128, 0.795);
     font-style: oblique;
 }
 .Textos{
-   font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Jost', sans-serif;
+    font-family: 'PT Serif', serif;
 }
-.flex-sm-fill{
-    height: 50px;
-    
-   
+a:visited{
+    color: rgba(20, 41, 97, 0.774);
+}
+
+.Conteudo{
+    width: 750px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }

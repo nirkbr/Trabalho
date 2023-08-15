@@ -22,8 +22,8 @@ figcaption{
     font-style: oblique;
 }
 .Textos{
-    font-family: 'Jost', sans-serif;
-    font-family: 'PT Serif', serif;
+    font-family: 'Bree Serif', serif;
+    font: 40px;
 }
 a:visited{
     color: rgba(20, 41, 97, 0.774);
